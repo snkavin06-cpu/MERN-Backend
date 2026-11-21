@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1795235434500",
+      "name": "kavin sn",
+      "email": "snkavin06@gmail.com",
+      "passwordHash": "$2a$10$pKBSrpn4ICRd9/fby49jLu2OJEwWoTGa7j7WaWuHOu8Gu8iYON83W"
+    }
+  ],
+  "orders": []
+}
